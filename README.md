@@ -1,4 +1,5 @@
-# Marlin Firmware for Makertech Proforge 2S
+# Marlin Firmware for Makertech Proforge 2S 
+[![Build Status](https://travis-ci.org/agarthetiger/proforge-2s-marlin-firmware.svg?branch=master)](https://travis-ci.org/agarthetiger/proforge-2s-marlin-firmware)
 
 This repo contains the Marlin firmware for the Makertech Proforge 2S printer. It is based on the Marlin 1.1 firmware with modifications for this specific printer, plus my own personal modifications on top of the firmware provided by Makertech. See the commit messages for details of the changes I've made. 
 
